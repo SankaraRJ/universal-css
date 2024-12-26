@@ -69,15 +69,15 @@
 }
 
 .align-sb {
-    align-content: space-between;
+    align-items: space-between;
 }
 
 .align-ft {
-    align-content: flex-start;
+    align-items: flex-start;
 }
 
 .align-fe {
-    align-content: flex-end;
+    align-items: flex-end;
 }
 
 .flex-c {
